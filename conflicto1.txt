@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Esta es una linea escrita por Wil 2
+=======
+Esta es una linea escrita por Solana - Vamos que se apruebaaaaaa
+Esta es una linea escrita por Wil
+>>>>>>> fec778979aecfa98a887a3b69cce4e37ffe3df33
 Vamos a generar un conflicto!
